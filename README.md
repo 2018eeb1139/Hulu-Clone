@@ -20,7 +20,7 @@ my opinion it has emmet abbreviation which helps you to write smooth and fast co
 ```bash
 You will have to install Live Server Extension in your VS code which starts a live 
 and local server on you system and does live reloading.
-[web on your system Address](http://127.0.0.1:5500/index.html)
+[web](http://127.0.0.1:5500/index.html)
 
 ```
 
